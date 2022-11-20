@@ -7,6 +7,7 @@
 ### Rank 1
 - ft_printf : 125/100
 - get_next_line
+- Born2beRoot
 
 ### Rank 2
 - push_swap
