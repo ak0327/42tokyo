@@ -2,17 +2,30 @@
 
 ## Grade
 ### Rank 0
-- libft     : 125/100
+- libft
+  - Grade : 125/100
+  - Repository : https://github.com/ak0327/42_libft
 
 ### Rank 1
-- ft_printf : 125/100
-- get_next_line : 125/100
-- Born2beRoot : 100/100
+- ft_printf
+  - Grade : 125/100
+  - Repository : https://github.com/ak0327/42_ft_printf
+- get_next_line
+  - Grade : 125/100
+  - Repository : https://github.com/ak0327/42_get_next_line
+- Born2beRoot
+  - Grade : 100/100
 
 ### Rank 2
-- push_swap : 125/100
-- pipex : 125/100
-- so_long : 125/100
+- push_swap
+  - Grade : 125/100
+  - Repository : https://github.com/ak0327/42_push_swap
+- pipex
+  - Grade : 125/100
+  - Repository : 　https://github.com/ak0327/42_pipex
+- so_long
+  - Grade : 125/100
+  - Repository : https://github.com/ak0327/42_so_long
 
 ### Rank 3
 - Philosophers
