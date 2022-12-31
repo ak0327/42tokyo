@@ -25,14 +25,14 @@
   - Grade : 125/100
   - Repository : https://github.com/ak0327/42_so_long
   - Completed : 2022/Dec/2nd
-- **push_swap**
-  - Grade : 125/100
-  - Repository : https://github.com/ak0327/42_push_swap
-  - Completed : 2022/Dec/30th
 - **pipex**
   - Grade : 125/100
   - Repository : 　https://github.com/ak0327/42_pipex
   - Completed : 2022/Dec/16th
+- **push_swap**
+  - Grade : 125/100
+  - Repository : https://github.com/ak0327/42_push_swap
+  - Completed : 2022/Dec/30th
 
 ### Rank 3
 - **Philosophers**
