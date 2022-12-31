@@ -1,8 +1,8 @@
 # 42tokyo PJ (2022/10/4~)
 
-## Grade
+## First Circle
 ### Rank 0
-- libft
+- **libft**
   - Grade : 125/100
   - Repository : https://github.com/ak0327/42_libft
 
