@@ -1,40 +1,47 @@
-# 42tokyo PJ (2022/10/4~)
+# 42tokyo PJ (2022/Oct/4th~)
 
 ## First Circle
 ### Rank 0
 - **libft**
   - Grade : 125/100
   - Repository : https://github.com/ak0327/42_libft
+  - Completed : 2022/Nov/14th
 
 ### Rank 1
-- ft_printf
+- **ft_printf**
   - Grade : 125/100
   - Repository : https://github.com/ak0327/42_ft_printf
-- get_next_line
+  - Completed : 2022/Nov/17th
+- **Born2beRoot**
+  - Grade : 100/100
+  - Completed : 2022/Nov/20th
+- **get_next_line**
   - Grade : 125/100
   - Repository : https://github.com/ak0327/42_get_next_line
-- Born2beRoot
-  - Grade : 100/100
+  - Completed : 2022/Nov/24th
 
 ### Rank 2
-- push_swap
-  - Grade : 125/100
-  - Repository : https://github.com/ak0327/42_push_swap
-- pipex
-  - Grade : 125/100
-  - Repository : 　https://github.com/ak0327/42_pipex
-- so_long
+- **so_long**
   - Grade : 125/100
   - Repository : https://github.com/ak0327/42_so_long
+  - Completed : 2022/Dec/2nd
+- **push_swap**
+  - Grade : 125/100
+  - Repository : https://github.com/ak0327/42_push_swap
+  - Completed : 2022/Dec/30th
+- **pipex**
+  - Grade : 125/100
+  - Repository : 　https://github.com/ak0327/42_pipex
+  - Completed : 2022/Dec/16th
 
 ### Rank 3
-- Philosophers
-- minishell
+- **Philosophers**
+- **minishell**
 
 ### Rank 4
-- CPP Module
-- cub3d
-- NetPractice
+- **CPP Module**
+- **cub3d**
+- **NetPractice**
 
 ### Rank 5
 
