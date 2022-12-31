@@ -5,14 +5,14 @@
 - libft     : 125/100
 
 ### Rank 1
-- ft_printf : 125/100
-- get_next_line
-- Born2beRoot : 100/100
+- ft_printf     : 125/100
+- get_next_line : 125/100
+- Born2beRoot   : 100/100
 
 ### Rank 2
-- push_swap
-- pipex
-- so_long
+- push_swap : 125/100
+- pipex : 125/100
+- so_long : 125/100
 
 ### Rank 3
 - Philosophers
