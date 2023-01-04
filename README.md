@@ -35,8 +35,9 @@
   - Completed : 2022/Dec/30th
 
 ### Rank 3
-- **Philosophers**
 - **minishell**
+  - Repository : https://github.com/minishellakirawchen/mini_shell
+- **Philosophers**
 
 ### Rank 4
 - **CPP Module**
