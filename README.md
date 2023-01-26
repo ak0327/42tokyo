@@ -36,7 +36,7 @@
 
 ### Rank 3
 - **minishell**
-  - Repository : https://github.com/minishellakirawchen/mini_shell
+  - Repository : https://github.com/minishellakirawchen/minishell_rev1
 - **Philosophers**
 
 ### Rank 4
