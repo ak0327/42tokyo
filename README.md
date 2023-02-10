@@ -27,7 +27,7 @@
   - Completion : 2022/Dec/2nd
 - **pipex**
   - Grade : 125/100
-  - Repository : 　https://github.com/ak0327/42_pipex
+  - Repository : https://github.com/ak0327/42_pipex
   - Completion : 2022/Dec/16th
 - **push_swap**
   - Grade : 125/100
