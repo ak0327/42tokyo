@@ -39,7 +39,7 @@
   - Repository : https://github.com/minishellakirawchen/minishell_rev1
   - Completion : 
 - **Philosophers**
-  - Repository : 
+  - Repository : https://github.com/ak0327/42_philosophers
   - Completion :
 
 ### Rank 4
