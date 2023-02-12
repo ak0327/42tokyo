@@ -36,8 +36,9 @@
 
 ### Rank 3
 - **minishell**
+  - Grade : 125/100
   - Repository : https://github.com/minishellakirawchen/minishell_rev1
-  - Completion : 
+  - Completion : 2023/Feb/12th
 - **Philosophers**
   - Repository : https://github.com/ak0327/42_philosophers
   - Completion :
