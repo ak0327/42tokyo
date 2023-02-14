@@ -44,7 +44,7 @@
   - Completion :
 
 ### Rank 4
-- **cub3d　/ miniRT**
+- **cub3d / miniRT**
 - **CPP Module**
 - **NetPractice**
 
