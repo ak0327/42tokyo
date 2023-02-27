@@ -40,8 +40,9 @@
   - Repository : https://github.com/minishellakirawchen/minishell_rev1
   - Completion : 2023/Feb/12th
 - **Philosophers**
+  - Grade : 125/100
   - Repository : https://github.com/ak0327/42_philosophers
-  - Completion :
+  - Completion : 2023/2/27
 
 ### Rank 4
 - **cub3d / miniRT**
