@@ -42,7 +42,7 @@
 - **Philosophers**
   - Grade : 125/100
   - Repository : https://github.com/ak0327/42_philosophers
-  - Completion : 2023/2/27
+  - Completion : 2023/Feb/27th
 
 ### Rank 4
 - **cub3d / miniRT**
