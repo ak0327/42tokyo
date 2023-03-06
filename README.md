@@ -5,6 +5,7 @@
 - **libft**
   - Grade : 125/100
   - Repository : https://github.com/ak0327/42_libft
+  (Update : https://github.com/ak0327/42_libs)
   - Completion : 2022/Nov/14th
 
 ### Rank 1
