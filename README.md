@@ -46,7 +46,7 @@
   - Completion : 2023/Feb/27th
 
 ### Rank 4
-- **cub3d / miniRT**
+- **miniRT**
 - **CPP Module**
 - **NetPractice**
 
