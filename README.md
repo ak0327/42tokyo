@@ -1,61 +1,38 @@
 # 42tokyo PJ (2022/Oct/4th~)
 
 ## First Circle
-### Rank 0
-- **libft**
-  - Grade : 125/100
-  - Repository : https://github.com/ak0327/42_libft
-    - (Update ver : https://github.com/ak0327/42_libs)
-  - Completion : 2022/Nov/14th
+| Rank | Project          | Overview                      | Grade   | Period                        | Repository                   | 
+| ---- | -------          | ----------------------------- | ------- | ----------------------------- | ---------------------------- | 
+| 0    | Libft            |                               | 125/100 | 2022/Oct/10th ~ 2022/Nov/14th | [42_libft][1]                | 
+|      |                  |                               |         |                               | <br>update: [42_libs][2]     | 
+| 1    | ft_printf        |                               | 125/100 | 2022/Oct/??th ~ 2022/Nov/17th | [42_ft_printf][3]            | 
+|      | Born2beRoot      |                               | 100/100 | 2022/Oct/??th ~ 2022/Nov/20th |                              | 
+|      | get_next_line    |                               | 125/100 | 2022/Oct/??th ~ 2022/Nov/24th | [42_get_next_line][4]        | 
+| 2    | so_long          |                               | 125/100 | 2022/Nov/??th ~ 2022/Dec/2nd  | [42_so_long][5]              | 
+|      | pipex            |                               | 125/100 | 2022/Dec/??th ~ 2022/Dec/16th | [42_pipex][6]                | 
+|      | push_swap        |                               | 125/100 | 2022/Dec/??th ~ 2022/Dec/30th | [42_push_swap][7]            | 
+| 3    | minishell        |                               | 125/100 | 2023/Jan/1st  ~ 2023/Feb/12th | [minishell_rev1][8]          | 
+|      | Pholosophers     |                               | 125/100 | 2023/Feb/14th ~ 2023/Feb/27th | [42_philosophers][9]         | 
+| 4    | miniRT           |                               |         | 2023/Mar/1st  ~               |                              | 
+|      | Netpractice      |                               |         |                               |                              | 
+|      | CPP Module 00-04 |                               |         |                               |                              | 
+| 5    | CPP Module 04-09 |                               |         |                               |                              | 
+|      | Inception        |                               |         |                               |                              | 
+|      | webserv          |                               |         |                               |                              | 
+| 6    | ft_transcendence |                               |         |                               |                              | 
 
-### Rank 1
-- **ft_printf**
-  - Grade : 125/100
-  - Repository : https://github.com/ak0327/42_ft_printf
-  - Completion : 2022/Nov/17th
-- **Born2beRoot**
-  - Grade : 100/100
-  - Completion : 2022/Nov/20th
-- **get_next_line**
-  - Grade : 125/100
-  - Repository : https://github.com/ak0327/42_get_next_line
-  - Completion : 2022/Nov/24th
 
-### Rank 2
-- **so_long**
-  - Grade : 125/100
-  - Repository : https://github.com/ak0327/42_so_long
-  - Completion : 2022/Dec/2nd
-- **pipex**
-  - Grade : 125/100
-  - Repository : https://github.com/ak0327/42_pipex
-  - Completion : 2022/Dec/16th
-- **push_swap**
-  - Grade : 125/100
-  - Repository : https://github.com/ak0327/42_push_swap
-  - Completion : 2022/Dec/30th
+[1]:https://github.com/ak0327/42_libft
+[2]:https://github.com/ak0327/42_libs
+[3]:https://github.com/ak0327/42_ft_printf
+[4]:https://github.com/ak0327/42_get_next_line
+[5]:https://github.com/ak0327/42_so_long
+[6]:https://github.com/ak0327/42_pipex
+[7]:https://github.com/ak0327/42_push_swap
+[8]:https://github.com/minishellakirawchen/minishell_rev1
+[9]:https://github.com/ak0327/42_philosophers
 
-### Rank 3
-- **minishell**
-  - Grade : 125/100
-  - Repository : https://github.com/minishellakirawchen/minishell_rev1
-  - Completion : 2023/Feb/12th
-- **Philosophers**
-  - Grade : 125/100
-  - Repository : https://github.com/ak0327/42_philosophers
-  - Completion : 2023/Feb/27th
 
-### Rank 4
-- **miniRT**
-- **CPP Module**
-- **NetPractice**
-
-### Rank 5
-- **Inceprion**
-- **ft_irc or webserv**
-- **ft_containers**
-
-### Rank 6
-- **ft_transcendence**
+<br>
 
 ## Second Circle
