@@ -1,4 +1,4 @@
-# 42tokyo PJ (2022/Oct/4th~)
+# 42tokyo PJ Overview (2022/Oct/4th~)
 
 ## First Circle
 | Rank | Project          | Overview                      | Grade   | Period                        | Repository                                  | 
