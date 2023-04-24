@@ -12,7 +12,7 @@
 | ^    | push_swap        |                               | ![img7][27] | 2022/Dec/??th ~ 2022/Dec/30th | [42_push_swap][7]                           | 
 | 3    | minishell        |                               | ![img8][28] | 2023/Jan/01st ~ 2023/Feb/12th | [minishell_rev1][8]                         | 
 | ^    | Pholosophers     |                               | ![img9][29] | 2023/Feb/14th ~ 2023/Feb/27th | [42_philosophers][9]                        | 
-| 4    | miniRT           |                               | ![img9][30] | 2023/Mar/1st  ~               |                                             | 
+| 4    | miniRT           |                               | ![img9][30] | 2023/Mar/01st  ~               |                                             | 
 | ^    | Netpractice      |                               | ![img9][31] |                               |                                             | 
 | ^    | CPP Module 00-04 |                               |             |                               |                                             | 
 | 5    | CPP Module 04-09 |                               |             |                               |                                             | 
