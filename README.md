@@ -15,7 +15,7 @@
 | ^    | [pipex][6]             |                               | ![img6][26]  | 2022/Dec/??th ~ 2022/Dec/16th |                          | 
 | ^    | [push_swap][7]         |                               | ![img7][27]  | 2022/Dec/??th ~ 2022/Dec/30th |                          | 
 | 3    | [minishell][8]         |                               | ![img8][28]  | 2023/Jan/01st ~ 2023/Feb/12th |                          | 
-| ^    | [Pholosophers][9]      |                               | ![img9][29]  | 2023/Feb/14th ~ 2023/Feb/27th |                          | 
+| ^    | [Philosophers][9]      |                               | ![img9][29]  | 2023/Feb/14th ~ 2023/Feb/27th |                          | 
 | 4    | [miniRT][10]           |                               | ![img10][30] | 2023/Mar/01st ~               |                          | 
 | ^    | Netpractice            |                               | ![img11][31] |                               |                          | 
 | ^    | [CPP Module 00-04][11] |                               | ![img12][32] | 2023/Apr/19th ~               |                          | 
