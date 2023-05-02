@@ -18,7 +18,7 @@
 | ^    | [Pholosophers][9]      |                               | ![img9][29]  | 2023/Feb/14th ~ 2023/Feb/27th |                          | 
 | 4    | [miniRT][10]           |                               | ![img10][30] | 2023/Mar/01st ~               |                          | 
 | ^    | Netpractice            |                               | ![img11][31] |                               |                          | 
-| ^    | [CPP Module 00-04][11] |                               | ![img12][32] | 2023/May/01st ~               |                          | 
+| ^    | [CPP Module 00-04][11] |                               | ![img12][32] | 2023/Apr/19th ~               |                          | 
 | 5    | CPP Module 05-09       |                               |              |                               |                          | 
 | ^    | Inception              |                               |              |                               |                          | 
 | ^    | webserv                |                               |              |                               |                          | 
