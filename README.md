@@ -15,10 +15,11 @@
 | ^    | [pipex][6]             |                               | ![img6][26]  | 2022/Dec/16th |                          | 
 | ^    | [push_swap][7]         |                               | ![img7][27]  | 2022/Dec/30th |                          | 
 | 3    | [minishell][8]         |                               | ![img8][28]  | 2023/Feb/12th | with [weijuan82113][101] | 
+|      | [minishell][13]        |                               | ![img8][28]  | 2023/Jul/26th | with [habvi][103]        | 
 | ^    | [Philosophers][9]      |                               | ![img9][29]  | 2023/Feb/27th |                          | 
 | 4    | [miniRT][10]           |                               | ![img10][30] | 2023/Jun/18th | with [molhot][102]       |
 | ^    | Netpractice            |                               | ![img11][31] |               |                          | 
-| ^    | [CPP Module 00-04][11] |                               | ![img12][32] |               |                          | 
+| ^    | [CPP Module 00-04][11] |                               | ![img12][32] | 2023/Aug/1st  |                          | 
 | 5    | [CPP Module 05-09][12] |                               |              |               |                          | 
 | ^    | Inception              |                               |              |               |                          | 
 | ^    | webserv                |                               |              |               |                          | 
@@ -37,6 +38,7 @@
 [10]:https://github.com/42minirt/miniRT
 [11]:https://github.com/ak0327/42_CPP_Module_00-04
 [12]:https://github.com/ak0327/42_CPP_Module_05-09
+[13]:https://github.com/habvi/42_minishell
 
 [21]:https://badge42.vercel.app/api/v2/clgurmlr9011708l73kveeyd5/project/2878442
 [22]:https://badge42.vercel.app/api/v2/clgurmlr9011708l73kveeyd5/project/2878442
@@ -53,6 +55,7 @@
 
 [101]:https://github.com/weijuan82113
 [102]:https://github.com/orgs/42minirt/people/molhot
+[103]:https://github.com/orgs/42minirt/people/habvi
 
 <br>
 
