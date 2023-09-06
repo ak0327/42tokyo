@@ -18,7 +18,7 @@
 |      | [minishell][13]        |                               | ![img8][28]  | 2023/Jul/26th | with [habvi][103]        | 
 | ^    | [Philosophers][9]      |                               | ![img9][29]  | 2023/Feb/27th |                          | 
 | 4    | [miniRT][10]           |                               | ![img10][30] | 2023/Jun/18th | with [molhot][102]       |
-| ^    | Netpractice            |                               | ![img11][31] |               |                          | 
+| ^    | Netpractice            |                               | ![img11][31] | 2023/Sep/6th  |                          | 
 | ^    | [CPP Module 00-04][11] |                               | ![img12][32] | 2023/Aug/1st  |                          | 
 | 5    | [CPP Module 05-09][12] |                               |              |               |                          | 
 | ^    | Inception              |                               |              |               |                          | 
