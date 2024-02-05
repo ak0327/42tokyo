@@ -18,9 +18,9 @@
 | 4    | [miniRT][10]           |                               | 125/100 | 2023/Jun/18th | with [molhot][102]       |
 | ^    | Netpractice            |                               | 100/100 | 2023/Sep/6th  |                          | 
 | ^    | [CPP Module 00-04][11] |                               | 480/500 | 2023/Aug/1st  |                          | 
-| 5    | [CPP Module 05-09][12] |                               | 480/500 | 2024/Feb/5th  |                          | 
+| 5    | [CPP Module 05-09][12] |                               | 480/500 | 2024/Feb/5th  | with [naharagu][104]     | 
 | ^    | Inception              |                               |         |               |                          | 
-| ^    | webserv                |                               |         |               |                          | 
+| ^    | [webserv][14]          |                               |         |               |                          | 
 | 6    | ft_transcendence       |                               |         |               |                          | 
 
 
@@ -37,10 +37,12 @@
 [11]:https://github.com/ak0327/42_CPP_Module_00-04
 [12]:https://github.com/ak0327/42_CPP_Module_05-09
 [13]:https://github.com/habvi/42_minishell
+[14]:https://github.com/Webserve4242/webserv
 
 [101]:https://github.com/weijuan82113
-[102]:https://github.com/orgs/42minirt/people/molhot
-[103]:https://github.com/orgs/42minirt/people/habvi
+[102]:https://github.com/molhot
+[103]:https://github.com/habvi
+[104]:https://github.com/naharagu
 
 <br>
 
