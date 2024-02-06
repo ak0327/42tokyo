@@ -18,9 +18,9 @@
 | 4    | [miniRT][10]           |                               | 125/100 | 2023/Jun/18th | with [molhot][102]       |
 | ^    | Netpractice            |                               | 100/100 | 2023/Sep/6th  |                          | 
 | ^    | [CPP Module 00-04][11] |                               | 480/500 | 2023/Aug/1st  |                          | 
-| 5    | [CPP Module 05-09][12] |                               | 480/500 | 2024/Feb/5th  | with [naharagu][104]     | 
+| 5    | [CPP Module 05-09][12] |                               | 480/500 | 2024/Feb/5th  |                          | 
 | ^    | Inception              |                               |         |               |                          | 
-| ^    | [webserv][14]          |                               |         |               |                          | 
+| ^    | [webserv][14]          |                               |         |               | with [naharagu][104]     | 
 | 6    | ft_transcendence       |                               |         |               |                          | 
 
 
