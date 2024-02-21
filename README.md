@@ -20,7 +20,7 @@
 | ^    | [CPP Module 00-04][11] |                               | 480/500 | 2023/Aug/1st  |                          | 
 | 5    | [CPP Module 05-09][12] |                               | 480/500 | 2024/Feb/5th  |                          | 
 | ^    | Inception              |                               |         |               |                          | 
-| ^    | [webserv][14]          |                               |         |               | with [naharagu][104]     | 
+| ^    | [webserv][14]          |                               |         |               |                          | 
 | 6    | ft_transcendence       |                               |         |               |                          | 
 
 
@@ -42,7 +42,6 @@
 [101]:https://github.com/weijuan82113
 [102]:https://github.com/molhot
 [103]:https://github.com/habvi
-[104]:https://github.com/naharagu
 
 <br>
 
