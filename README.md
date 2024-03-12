@@ -20,7 +20,7 @@
 | ^    | [CPP Module 00-04][11] |                               | 480/500 | 2023/Aug/1st  |                          | 
 | 5    | [CPP Module 05-09][12] |                               | 480/500 | 2024/Feb/5th  |                          | 
 | ^    | Inception              |                               |         |               |                          | 
-| ^    | [webserv][14]          |                               |         |               |                          | 
+| ^    | [webserv][14]          |                               | 125/100 | 2024/Mar/12th |                          | 
 | 6    | ft_transcendence       |                               |         |               |                          | 
 
 
@@ -37,7 +37,7 @@
 [11]:https://github.com/ak0327/42_CPP_Module_00-04
 [12]:https://github.com/ak0327/42_CPP_Module_05-09
 [13]:https://github.com/habvi/42_minishell
-[14]:https://github.com/Webserve4242/webserv
+[14]:https://github.com/ak0327/42_webserv
 
 [101]:https://github.com/weijuan82113
 [102]:https://github.com/molhot
