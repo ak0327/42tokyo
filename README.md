@@ -7,9 +7,9 @@
 | ---- | ---------------------- | ----------------------------- | ------- | ------------- | ------------------------ | 
 | 0    | [Libft][1]             |                               | 125/100 | 2022/Nov/14th | [42_libs][2](update ver) | 
 | 1    | [ft_printf][3]         |                               | 125/100 | 2022/Nov/17th |                          | 
-| ^    | Born2beRoot            |                               | 100/100 | 2022/Nov/2    |                          |
-| ^    | [get_next_line][4]     |                               | 125/100 | 2022/4th      |                          | 
-| 2    | [so_long][5]           |                               | 125/100 | Dec/02nd      |                          | 
+| ^    | Born2beRoot            |                               | 100/100 | 2022/Nov/18th |                          |
+| ^    | [get_next_line][4]     |                               | 125/100 | 2022/Nov/23th |                          | 
+| 2    | [so_long][5]           |                               | 125/100 | 2022/Dec/2nd  |                          | 
 | ^    | [pipex][6]             |                               | 125/100 | 2022/Dec/16th |                          | 
 | ^    | [push_swap][7]         |                               | 125/100 | 2022/Dec/30th |                          | 
 | 3    | [minishell][8]         |                               | 125/100 | 2023/Feb/12th | with [weijuan82113][101] | 
@@ -21,7 +21,7 @@
 | 5    | [CPP Module 05-09][12] |                               | 480/500 | 2024/Feb/5th  |                          | 
 | ^    | [webserv][14]          |                               | 125/100 | 2024/Mar/12th |                          | 
 | ^    | [Inception][15]        |                               | 125/100 | 2024/Mar/24th |                          | 
-| 6    | ft_transcendence       |                               |         |               |                          | 
+| 6    | [ft_transcendence][16] |                               | 125/100 | 2024/Jun/24th | with [uminomae][104]     | 
 
 
 [1]:https://github.com/ak0327/42_libft
@@ -39,10 +39,12 @@
 [13]:https://github.com/habvi/42_minishell
 [14]:https://github.com/ak0327/42_webserv
 [15]:https://github.com/ak0327/42_Inception
+[16]:https://github.com/42trans/ft_transcendence
 
 [101]:https://github.com/weijuan82113
 [102]:https://github.com/molhot
 [103]:https://github.com/habvi
+[104]:https://github.com/uminomae
 
 <br>
 
