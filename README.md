@@ -1,4 +1,4 @@
-# 42tokyo PJ Overview (2022/Oct/4th~)
+# Overview of 42 Tokyo Project (2022/Oct/4th~)
 
 <br>
 
@@ -22,7 +22,6 @@
 | ^    | [webserv][14]          |                               | 125/100 | 2024/Mar/12th |                          | 
 | ^    | [Inception][15]        |                               | 125/100 | 2024/Mar/24th |                          | 
 | 6    | [ft_transcendence][16] |                               | 125/100 | 2024/Jun/24th | with [uminomae][104]     | 
-
 
 [1]:https://github.com/ak0327/42_libft
 [2]:https://github.com/ak0327/42_libs
@@ -48,4 +47,7 @@
 
 <br>
 
-## Second Circle
+## 42 Advanced
+| Project                | Overview                      | Grade   | End date      | Note                     | 
+| ---------------------- | ----------------------------- | ------- | ------------- | ------------------------ | 
+|                        |                               |    /100 | YYYY/MM/DD    |                          | 
