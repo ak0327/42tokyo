@@ -10,15 +10,15 @@
 | ^    | Born2beRoot            |                                               | 100/100 | 2022/Nov/18th |                          |
 | ^    | [get_next_line][4]     | Implement of the C function like fgets        | 125/100 | 2022/Nov/23th |                          | 
 | 2    | [so_long][5]           | Small 2D game with miniLibX                   | 125/100 | 2022/Dec/2nd  |                          | 
-| ^    | [pipex][6]             | Understangind redirections and pipes          | 125/100 | 2022/Dec/16th |                          | 
+| ^    | [pipex][6]             | Understanging redirections and pipes          | 125/100 | 2022/Dec/16th |                          | 
 | ^    | [push_swap][7]         | Implementation of sorting algorithm           | 125/100 | 2022/Dec/30th |                          | 
 | 3    | [minishell][8]         | Re-implemented a simple shell                 | 125/100 | 2023/Feb/12th | with [weijuan82113][101] | 
 |      | [minishell][13]        | Re-implemented a simple shell                 | 125/100 | 2023/Jul/26th | with [habvi][103]        | 
 | ^    | [Philosophers][9]      | Understanding the dining philosophers problem | 125/100 | 2023/Feb/27th |                          | 
 | 4    | [miniRT][10]           | Simple RayTracer with miniLibX      　　         | 125/100 | 2023/Jun/18th | with [molhot][102]       |
 | ^    | Netpractice            | Exercise to discover networking               | 100/100 | 2023/Sep/6th  |                          | 
-| ^    | [CPP Module 00-04][11] | Understangint the C++                         | 480/500 | 2023/Aug/1st  |                          | 
-| 5    | [CPP Module 05-09][12] | Understangint the C++                         | 480/500 | 2024/Feb/5th  |                          | 
+| ^    | [CPP Module 00-04][11] | Understanging the C++                         | 480/500 | 2023/Aug/1st  |                          | 
+| 5    | [CPP Module 05-09][12] | Understanging the C++                         | 480/500 | 2024/Feb/5th  |                          | 
 | ^    | [webserv][14]          | Implement an HTTP server                      | 125/100 | 2024/Mar/12th |                          | 
 | ^    | [Inception][15]        | System administration by using Docker         | 125/100 | 2024/Mar/24th |                          | 
 | 6    | [ft_transcendence][16] | Web application that can play Pong game       | 125/100 | 2024/Jun/24th | with [uminomae][104]     | 
