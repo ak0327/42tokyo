@@ -50,4 +50,8 @@
 ## 42 Advanced
 | Project                | Overview                      | Grade   | End date      | Note                     | 
 | ---------------------- | ----------------------------- | ------- | ------------- | ------------------------ | 
+| [computor_v1][21]      | Simple equation solver        |    /100 | YYYY/MM/DD    |                          | 
 |                        |                               |    /100 | YYYY/MM/DD    |                          | 
+|                        |                               |    /100 | YYYY/MM/DD    |                          | 
+
+[21]:https://github.com/ak0327/42_computor_v1
