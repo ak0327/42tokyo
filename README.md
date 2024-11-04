@@ -52,7 +52,11 @@
 | --------------------------- | -------------------------------------------- | ------- | ------------- | ------------------------ | 
 | [computor_v1][21]           | Simple equation solver                       | 113/100 | 2024/Sep/16th |                          | 
 | [multilayer-perceptron][22] | Re-implementation of a multilayer perceptron | 125/100 | 2024/Oct/29th |                          | 
+| [Learn2Slither][23]         |                                              |    /100 | YYYY/MM/DD    |                          | 
+| [libasm][24]                |                                              |    /100 | YYYY/MM/DD    |                          | 
 |                             |                                              |    /100 | YYYY/MM/DD    |                          | 
 
 [21]:https://github.com/ak0327/42_computor_v1
 [22]:https://github.com/ak0327/42_multilayer-perceptron
+[23]:https://github.com/ak0327/42_Learn2Slither
+[24]:https://github.com/ak0327/42_libasm
